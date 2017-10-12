@@ -1,9 +1,10 @@
 package main
 
-import "fmt"
+import "os"
 
 func main() {
+	y := []byte("y\n")
 	for true {
-		fmt.Println("y")
+		os.Stdout.Write(y)
 	}
 }

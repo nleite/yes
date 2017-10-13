@@ -10,6 +10,5 @@ This repository is just a collection of different
 implementations of the ``yes`` GNU utility in different programing languages of
 my choosing.
 
-Also, this is based out of this quite `nice article`_ by Mathias Endler.
+Also, this is based out of this quite `nice article <https://matthias-endler.de/2017/yes/>`_ by Mathias Endler.
 
-.. _`nice articale`: https://matthias-endler.de/2017/yes/
